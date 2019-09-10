@@ -1,0 +1,7 @@
+README.md
+setup.py
+gym_jackorbetter.egg-info/PKG-INFO
+gym_jackorbetter.egg-info/SOURCES.txt
+gym_jackorbetter.egg-info/dependency_links.txt
+gym_jackorbetter.egg-info/requires.txt
+gym_jackorbetter.egg-info/top_level.txt
